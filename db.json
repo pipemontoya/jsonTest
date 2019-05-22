@@ -2,14 +2,14 @@
     {
         "id" : 1,
         "route" : "la enea - villa pilar",
-        "polyline" : "ecn\bn{lMcBzKsCvBaCyCmBqF_CmEoBfFwBvEgC|EpCnB~FvBvBbDdJ~F",
+        "polyline" : "ecn\\bn{lMcBzKsCvBaCyCmBqF_CmEoBfFwBvEgC|EpCnB~FvBvBbDdJ~F",
         "plate" : "WBE345",
         "startDate" : "2019-05-21 09:45:00",
         "state" : "empty"
     }, {
         "id" : 2,
         "route" : "la linda - cable",
-        "polyline" : "s}m\~czlM`C}AfGuAlAsDhDcHtAuHhKiGxK}ExKaGvU{K~F}AhDpGlFzHlB`HzD|DvBhGkAbLiCjOkE`GgFjHqGzGoBlA",
+        "polyline" : "s}m\\~czlM`C}AfGuAlAsDhDcHtAuHhKiGxK}ExKaGvU{K~F}AhDpGlFzHlB`HzD|DvBhGkAbLiCjOkE`GgFjHqGzGoBlA",
         "plate" : "WGT222",
         "startDate" : "2019-05-21 06:45:00",
         "state" : "busy"
@@ -23,7 +23,7 @@
     }, {
         "id" : 4,
         "route" : "Villa pilar - villa maria",
-        "polyline" : "e{k\vkcmMwBcHcAcHcAuHcHkD??mFvIkDxCeBmMqGaGcA_FdB_Na@gQa@sOQuPhD_JcAiKbAiKvBcHsHsO_FaGdA_FbA{DmM_F",
+        "polyline" : "e{k\\vkcmMwBcHcAcHcAuHcHkD??mFvIkDxCeBmMqGaGcA_FdB_Na@gQa@sOQuPhD_JcAiKbAiKvBcHsHsO_FaGdA_FbA{DmM_F",
         "plate" : "STR888",
         "startDate" : "2019-05-21 20:45:00",
         "state" : "medium"
